@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sensor-mgmt-program/static/css/main.746f1836.css",
+    "main.js": "/sensor-mgmt-program/static/js/main.fb1771e2.js",
+    "index.html": "/sensor-mgmt-program/index.html",
+    "main.746f1836.css.map": "/sensor-mgmt-program/static/css/main.746f1836.css.map",
+    "main.fb1771e2.js.map": "/sensor-mgmt-program/static/js/main.fb1771e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.746f1836.css",
+    "static/js/main.fb1771e2.js"
+  ]
+}
